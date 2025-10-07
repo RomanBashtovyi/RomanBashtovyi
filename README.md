@@ -81,6 +81,11 @@ Crafting modern, accessible web apps with React, TypeScript and Next.js.
 <img height="170" src="https://streak-stats.demolab.com?user=RomanBashtovyi&theme=tokyonight&hide_border=true" alt="Current streak" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanBashtovyi&theme=tokyonight" alt="All‑time stats" />
 
+<br />
+
+<!-- Contribution Snake (auto-generated daily by GitHub Actions) -->
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/RomanBashtovyi/RomanBashtovyi/output/snake-dark.svg" />
+
 </div>
 
 ---
