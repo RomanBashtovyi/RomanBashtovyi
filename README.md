@@ -84,7 +84,7 @@ Crafting modern, accessible web apps with React, TypeScript and Next.js.
 <br />
 
 <!-- Contribution Snake (auto-generated daily by GitHub Actions) -->
-<img alt="Contribution Snake" src="https://raw.githubusercontent.com/RomanBashtovyi/RomanBashtovyi/output/snake-dark.svg" />
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/RomanBashtovyi/RomanBashtovyi/output/snake-dark.svg" width="100%" />
 
 </div>
 
