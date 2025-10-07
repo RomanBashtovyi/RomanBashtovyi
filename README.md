@@ -75,7 +75,10 @@ Crafting modern, accessible web apps with React, TypeScript and Next.js.
 <!-- Languages card -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanBashtovyi&layout=compact&hide_title=true&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<!-- All‑time commits card (shows total commits across whole history) -->
+<br />
+
+<!-- Current streak and all-time commits side by side -->
+<img height="170" src="https://streak-stats.demolab.com?user=RomanBashtovyi&theme=tokyonight&hide_border=true" alt="Current streak" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanBashtovyi&theme=tokyonight" alt="All‑time stats" />
 
 </div>
