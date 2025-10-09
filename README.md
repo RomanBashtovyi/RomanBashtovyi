@@ -4,7 +4,7 @@
 
 Crafting modern, accessible web apps with React, TypeScript and Next.js.
 
-[🌐 Portfolio](https://bashtovyi-dev.vercel.app/) · [📦 Portfolio Repo](https://github.com/RomanBashtovyi/Bashtovyi-Frontend-Portfolio) · [⚡ PowerLogs](https://github.com/RomanBashtovyi/PowerLogs)
+<a href="https://bashtovyi-dev.vercel.app/" target="_blank">🌐 Portfolio</a> · <a href="https://github.com/RomanBashtovyi/Bashtovyi-Frontend-Portfolio" target="_blank">📦 Portfolio Repo</a> · <a href="https://github.com/RomanBashtovyi/PowerLogs" target="_blank">⚡ PowerLogs</a>
 
 <br />
 
@@ -27,10 +27,12 @@ Crafting modern, accessible web apps with React, TypeScript and Next.js.
 
 ## About me 👨‍💻
 
-- 🚀 3+ years building production front‑ends
-- 🎯 Focus on performance, polished UX
-- 🧩 React ecosystem: Next.js, Redux Toolkit, Context API
-- 🛡️ TypeScript everywhere
+- 🚀 Frontend developer with 3+ years of commercial experience
+- 🎯 Building user-friendly interfaces for CRM and admin panels with large tables
+- 🧩 React ecosystem: Next.js, Redux Toolkit, Context API, React Query
+- 🛡️ TypeScript everywhere for type-safe development
+- 🤖 Experience with multi-role systems, AI integrations, and PWA applications
+- ⚡ Performance optimization and modern web technologies
 
 ## Tech stack 🧰
 
@@ -65,8 +67,8 @@ Crafting modern, accessible web apps with React, TypeScript and Next.js.
 
 ## Links 🔗
 
-- 🌎 Website: `https://bashtovyi-dev.vercel.app/`
-- ✈️ Telegram: `https://t.me/romanuss`
+- 🌎 Website: <a href="https://bashtovyi-dev.vercel.app/" target="_blank">https://bashtovyi-dev.vercel.app/</a>
+- ✈️ Telegram: <a href="https://t.me/romanuss" target="_blank">https://t.me/romanuss</a>
 
 ## GitHub stats 📊
 
@@ -87,47 +89,51 @@ Crafting modern, accessible web apps with React, TypeScript and Next.js.
 ## Featured projects ⭐
 
 <p align="left">
-  <a href="https://github.com/RomanBashtovyi/Bashtovyi-Frontend-Portfolio">
+  <a href="https://github.com/RomanBashtovyi/Bashtovyi-Frontend-Portfolio" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomanBashtovyi&repo=Bashtovyi-Frontend-Portfolio&theme=tokyonight&hide_border=true" alt="Portfolio repo card" />
   </a>
-  <a href="https://github.com/RomanBashtovyi/PowerLogs">
+  <a href="https://github.com/RomanBashtovyi/PowerLogs" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomanBashtovyi&repo=PowerLogs&theme=tokyonight&hide_border=true" alt="PowerLogs repo card" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/RomanBashtovyi/movie_app_react">
+  <a href="https://github.com/RomanBashtovyi/movie_app_react" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomanBashtovyi&repo=movie_app_react&theme=tokyonight&hide_border=true" alt="movie_app_react repo card" />
   </a>
-  <a href="https://github.com/RomanBashtovyi/aliens_go_home">
+  <a href="https://github.com/RomanBashtovyi/aliens_go_home" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomanBashtovyi&repo=aliens_go_home&theme=tokyonight&hide_border=true" alt="aliens_go_home repo card" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/RomanBashtovyi/university_pager">
+  <a href="https://github.com/RomanBashtovyi/university_pager" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomanBashtovyi&repo=university_pager&theme=tokyonight&hide_border=true" alt="university_pager repo card" />
   </a>
-  <a href="https://github.com/RomanBashtovyi/cities_weather">
+  <a href="https://github.com/RomanBashtovyi/cities_weather" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomanBashtovyi&repo=cities_weather&theme=tokyonight&hide_border=true" alt="cities_weather repo card" />
   </a>
 </p>
 
-> 🔴 Live: [`bashtovyi-dev.vercel.app`](https://bashtovyi-dev.vercel.app/)
+> 🔴 Live: <a href="https://bashtovyi-dev.vercel.app/" target="_blank">`bashtovyi-dev.vercel.app`</a>
 
 ---
 
 ## Experience highlights 📌
 
-- 🧭 Built admin panels and CRM integrations for large datasets
-- 🔐 Implemented Auth0 authentication with role‑based access controls
-- 🧾 Migrated forms to controlled solutions improving UX and data quality
-- 🧰 Replaced Redux with Redux Toolkit for simpler, type‑safe state
-- 🧩 Integrated external libraries: Swiper, AOS, Chart.js, Lightbox
+- 🏢 Worked on 8+ React projects in a team of 5 developers
+- 🧭 Built multi-role admin panels and CRM systems with large table interfaces
+- 🤖 Developed AI integrations: ChatGPT & DALL-E page generator, content regeneration system
+- 🔐 Implemented Auth0/Google OAuth, JWT tokens, and WebSocket real-time notifications
+- 📊 Created advanced filtering and mass operations for large data volumes
+- ⚡ Optimized performance: code splitting, lazy loading, 30% bundle size reduction with Preact
+- 📱 Implemented PWA functionality: Service Workers for offline mode, Web Push Notifications
+- 🧰 State management: Redux Toolkit, Context API, React Query
+- 🛠️ Worked with development tools: Jira, Notion, ClickUp, Trello, Confluence, Cursor
 
 ---
 
 ## Contact 📬
 
-- ✈️ Telegram: `@romanuss`
-- 📧 Email: `bashtovyi.roman@gmail.com`
+- ✈️ Telegram: <a href="https://t.me/romanuss" target="_blank">`@romanuss`</a>
+- 📧 Email: <a href="mailto:bashtovyi.roman@gmail.com" target="_blank">`bashtovyi.roman@gmail.com`</a>
